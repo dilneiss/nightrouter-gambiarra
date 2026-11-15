@@ -1,0 +1,15 @@
+.env
+__pycache__/
+
+# credenciais geradas pela ferramenta
+.env.*
+!.env.example
+.env.lock
+.provider-rate.json
+.provider-rate.json.tmp
+
+# build do executavel
+build/
+dist/
+*.spec
+NightRouterKeys.exe
